@@ -18,7 +18,7 @@
     "js-base64": "^2.5.1",
     "mobx": "^5.10.1",
     "mobx-react": "^6.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-hot-loader": "^4.12.12",
